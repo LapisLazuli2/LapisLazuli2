@@ -14,8 +14,8 @@ Resource name | Topic
 ### Previously learned
 Resource name | Learning Outcomes
 :-- | :--: | 
-[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | I learned about OOP, understanding program efficiency, unit testing, divide and conquer problem solving, and searching and sorting algorithms. 
-[Python for Everybody](https://www.py4e.com/lessons) | 
+[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | I learned about OOP, understanding program efficiency, unit testing, problem solving via divide and conquer, and searching and sorting algorithms. 
+[Python for Everybody](https://www.py4e.com/lessons) | I learned about web scraping and relational data modeling, and designing simple programs that can gather data via scraping, clean the data, and store it in a database.
 
 <!--
 **LapisLazuli2/LapisLazuli2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
