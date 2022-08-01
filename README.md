@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## ABOUT ME
 Page to keep track of my programming journey. Currently learning program design via How To Design Programs and Calculus via Khan Academy.
