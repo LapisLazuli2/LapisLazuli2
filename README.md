@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+## ABOUT ME
+Page to keep track of my programming journey. Currently learning program design via How To Design Programs and Calculus via Khan Academy.
+Familiar with Python and SQL. 
+
+### Currently learning
+Resource name | Topic
+:-- | :--: | 
+[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | Program design
+[Differential Calculus](https://www.khanacademy.org/math/differential-calculus) | Calculus
+
+
+### Previously learned
+Resource name | Learning Outcomes
+:-- | :--: | 
+[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | I learned about OOP, understanding program efficiency, unit testing, divide and conquer problem solving, and searching and sorting algorithms. 
+[Python for Everybody](https://www.py4e.com/lessons) | 
+
 <!--
 **LapisLazuli2/LapisLazuli2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
