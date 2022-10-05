@@ -7,13 +7,14 @@ Familiar with Python and SQL.
 ### Currently learning
 Resource name | Topic
 :-- | :--: | 
-[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | Program design
+[How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | Program design
 [Differential Calculus](https://www.khanacademy.org/math/differential-calculus) | Calculus
 
 
 ### Previously learned
 Resource name | Learning Outcomes
 :-- | :--: | 
+[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | I learned about program design, functional programming and how to develop program requirements.
 [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | I learned about OOP, understanding program efficiency, unit testing, problem solving via divide and conquer, and searching and sorting algorithms. 
 [Python for Everybody](https://www.py4e.com/lessons) | I learned about web scraping and relational data modeling, and designing simple programs that can gather data via scraping, clean the data, and store it in a database.
 
