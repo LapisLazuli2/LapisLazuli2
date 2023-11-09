@@ -7,7 +7,7 @@ Page to keep track of my programming journey.
 Project | Description
 :-- | :--: | 
 [Printshop Application](https://github.com/LapisLazuli2/printshop) | An application for managing a photocopy store made using Java.
-[Space Invaders](https://github.com/LapisLazuli2/Space-Invaders-Python) | The game Space Invaders made in Python written in a functional programming style using the Pygame library
+[Space Invaders](https://github.com/LapisLazuli2/Space-Invaders-Python) | Space Invaders made in Python written in a functional programming style using the Pygame library
 ### Currently learning
 Resource name | Topic
 :-- | :--: | 
